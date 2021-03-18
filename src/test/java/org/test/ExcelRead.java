@@ -28,5 +28,6 @@ public static void main(String[] args) throws IOException {
 	String s = cell.getStringCellValue();
 	
 	System.out.println(s);
+	System.out.println("text");
 }
 }
